@@ -1,6 +1,6 @@
 # LightGBM
 
-Gradient boosting decision tree (GBDT) is a widely-used machine learning algorithm, due to its efficiency, accuracy, and interpretability. But with the emergence of big data, GBDT is facing new challenges, especially in the trade-off between accuracy and efficiency. To tackle challenges like this the new techniques were introduced in the field of data science. That helped to improvise the model in terms of accuracy and speed. In this article, we will learn about one of those techniques known as LightGBM
+Gradient boosting decision tree (GBDT) is a widely-used machine learning algorithm, due to its efficiency, accuracy, and interpretability. But with the emergence of big data, GBDT is facing new challenges, especially in the trade-off between accuracy and efficiency. To tackle challenges like this the new techniques were introduced in the field of data science. That helped to improvise the model in terms of accuracy and speed. Here we will learn about implementation of light GBM.
 
 # RESOURCES:
 
