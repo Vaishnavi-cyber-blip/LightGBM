@@ -7,8 +7,8 @@ https://medium.com/@vaishnaviy502/light-gbm-c11e06b53479
 
 # Other implementations: 
 
-## REGRESSOR: https://colab.research.google.com/github/Vaishnavi-cyber-blip/LightGBM/blob/main/Regressor.ipynb
-## CLASSIFIER: https://colab.research.google.com/drive/14aUbPAKrBn-Bog-tP-fO5wfF8uk1EsjW?usp=sharing
+REGRESSOR: https://colab.research.google.com/github/Vaishnavi-cyber-blip/LightGBM/blob/main/Regressor.ipynb
+CLASSIFIER: https://colab.research.google.com/drive/14aUbPAKrBn-Bog-tP-fO5wfF8uk1EsjW?usp=sharing
 
 
 
